@@ -13,7 +13,7 @@ layout: default
 
 
 ### Contact me.....
-> [![Octocat](https://github.com/Sabbir772002/book/blob/main/images.png)](https://fb.com/772sabbir)
+> [![Octocat](./images.png)](https://fb.com/772sabbir)
 
-> [![Octocat](https://github.com/Sabbir772002/book/blob/main/WhatsAppButtonGreenSmall.png)](https://wa.me/8801571144383)
+> [![Octocat](./WhatsAppButtonGreenSmall.png)](https://wa.me/8801571144383)
 
